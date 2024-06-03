@@ -1,0 +1,4 @@
+git status ->muestra los cambios en los archivos
+git add . -> indica que archivos se van a subir el punto indica que son todos
+git commit -m "el comentario" -> se prepara para subir los archivos con el comentario
+git push -> ejecuta subir los archivos
